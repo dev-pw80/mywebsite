@@ -1,3 +1,4 @@
 #.gitignore
 unwantedfile
 unwantedfolder/
+*.log
